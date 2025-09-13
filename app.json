@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e241cd08-854a-467c-9d3f-5b2c8aa2fcee"
+      }
+    },
+    "owner": "arfet"
   }
 }
